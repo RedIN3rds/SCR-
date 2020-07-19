@@ -1,0 +1,13 @@
+C:\Users\jacob\source\repos\SCREAM\SCREAM\bin\Debug\netcoreapp3.1\SCREAM.exe
+C:\Users\jacob\source\repos\SCREAM\SCREAM\bin\Debug\netcoreapp3.1\SCREAM.deps.json
+C:\Users\jacob\source\repos\SCREAM\SCREAM\bin\Debug\netcoreapp3.1\SCREAM.runtimeconfig.json
+C:\Users\jacob\source\repos\SCREAM\SCREAM\bin\Debug\netcoreapp3.1\SCREAM.runtimeconfig.dev.json
+C:\Users\jacob\source\repos\SCREAM\SCREAM\bin\Debug\netcoreapp3.1\SCREAM.dll
+C:\Users\jacob\source\repos\SCREAM\SCREAM\bin\Debug\netcoreapp3.1\SCREAM.pdb
+C:\Users\jacob\source\repos\SCREAM\SCREAM\obj\Debug\netcoreapp3.1\SCREAM.csprojAssemblyReference.cache
+C:\Users\jacob\source\repos\SCREAM\SCREAM\obj\Debug\netcoreapp3.1\SCREAM.AssemblyInfoInputs.cache
+C:\Users\jacob\source\repos\SCREAM\SCREAM\obj\Debug\netcoreapp3.1\SCREAM.AssemblyInfo.cs
+C:\Users\jacob\source\repos\SCREAM\SCREAM\obj\Debug\netcoreapp3.1\SCREAM.csproj.CoreCompileInputs.cache
+C:\Users\jacob\source\repos\SCREAM\SCREAM\obj\Debug\netcoreapp3.1\SCREAM.dll
+C:\Users\jacob\source\repos\SCREAM\SCREAM\obj\Debug\netcoreapp3.1\SCREAM.pdb
+C:\Users\jacob\source\repos\SCREAM\SCREAM\obj\Debug\netcoreapp3.1\SCREAM.genruntimeconfig.cache
